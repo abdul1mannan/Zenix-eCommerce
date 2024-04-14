@@ -1,7 +1,8 @@
 # Zenix - An eCommerce Website
 
 Zenix is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
-<a href=""><strong>➥ Live Demo</strong></a>
+
+<a href="https://abdul1mannan.github.io/Zenix-eCommerce/"><strong>➥ Live Demo</strong></a>
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
